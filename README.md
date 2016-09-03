@@ -14,17 +14,17 @@ The project also used Gulp:
 npm install -g gulp
 ```
 
-TSLint is also require:
+TSLint is also required:
 ```
 npm install -g tslint
 ```
 
-Mocha
+Mocha:
 ```
 npm install -g mocha
 ```
 
-Typings
+Typings:
 ```
 npm install -g typings
 ```
